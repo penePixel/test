@@ -3,4 +3,4 @@ const saludar = nombre => {
   return `¡Hola ${nombre}! ¿Cómo te ha ido?`;
 };
 
-
+console.log(saludar("Ronaldinho"));
