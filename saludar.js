@@ -1,6 +1,6 @@
 
 const saludar = nombre => {
-  return `¡Hola ${nombre}! ¿Cómo estás?`
+  return `¡Hola ${nombre}! ¿Cómo te ha ido?`;
 };
 
 
