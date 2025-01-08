@@ -1,6 +1,7 @@
 
 const saludar = nombre => {
-  return `¿Que tal, ${nombre}? ¡Me alegra verlo de cuelta!`
+  return `¡Hola ${nombre}! ¿Cómo te ha ido?`;
 };
 
+//modificado merge
 
